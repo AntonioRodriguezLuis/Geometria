@@ -1,2 +1,2 @@
-# JavaFXTemplate
-Plantilla para nuevos proyectos JavaFX con Maven
+# Geometria
+Calcular area y perimetros de distintas figuras geometricas
